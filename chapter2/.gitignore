@@ -1,0 +1,22 @@
+.myeclipse/
+.settings/
+.classpath
+*.war
+*.class
+rebel.xml
+bin/
+classes/
+target/
+.classpath
+.mymetadata
+.project
+.tern-project
+local.properties
+MANIFEST.MF
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
